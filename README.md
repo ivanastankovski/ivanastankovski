@@ -1,8 +1,11 @@
-### Hi there 👋
-### ✨ I’m Ivana and I’m eager and determined in making a change towards the field of software development. 
+# Hi there 👋
+## ✨ I’m Ivana and I’m eager and determined in making a change towards the field of software development. 
 ### 🌱 In order to achieve this, I devoted myself in mastering new programming languages and frameworks, constantly striving to improve my skills.
 
-### 📫 How to reach me: https://www.linkedin.com/in/ivanastankovski/
++ HTML | CSS | Bootstrap | JavaScript | jQuery | Angular | SQL | C# | ASP.NET
+
+*****
+#### 📫 How to reach me: <https://www.linkedin.com/in/ivanastankovski/>
 
 <!--
 **ivanastankovski/ivanastankovski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
